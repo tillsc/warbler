@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require 'warbler/version'
 
 Gem::Specification.new do |gem|
-  gem.name = "warbler"
+  gem.name = "warbler-pre-release-tillsc"
   gem.version = Warbler::VERSION
   gem.platform = Gem::Platform::RUBY
   gem.homepage = "https://github.com/jruby/warbler"
